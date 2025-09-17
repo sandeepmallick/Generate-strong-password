@@ -27,3 +27,6 @@ A simple password generator built with JavaScript that allows users to customize
 - JavaScript
 
 ## feel free to contribute and give suggestion to improve
+## little glimpse of it
+1.https://generater.netlify.app/
+2
