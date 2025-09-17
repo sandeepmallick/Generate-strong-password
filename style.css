@@ -11,7 +11,7 @@ body {
 }
 
 body {
-  background-color: #caedf7;
+  background-color: #000000;
   text-align: center;
   display: flex;
   justify-content: center;
@@ -26,6 +26,7 @@ body {
 }
 .main-container > h1 {
   width: 80%;
+  color: rgb(255, 0, 0);
   font-size: 3rem;
   font-weight: 600;
 }
@@ -61,7 +62,7 @@ body {
   height: 20rem;
   display: flex;
   flex-direction: column;
-  background-color: white;
+  background-color: rgb(155, 7, 7);
   border-radius: 20px;
   padding: 2rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
@@ -71,6 +72,7 @@ body {
   padding-bottom: 5px;
   text-align: start;
   margin-bottom: 2rem;
+  color: rgb(255, 255, 255);
   border-bottom: 2px solid #f0f2f5;
 }
 
@@ -104,6 +106,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: start;
+  color: #ffffff;
   justify-content: space-around;
   font-family: "Neo Sans Pro";
   font-weight: bold;
