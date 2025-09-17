@@ -28,5 +28,5 @@ A simple password generator built with JavaScript that allows users to customize
 
 ## feel free to contribute and give suggestion to improve
 ## little glimpse of it
-1.https://generater.netlify.app/
-2
+-- https://generater.netlify.app/
+-- https://generate-strong-password-two.vercel.app/
